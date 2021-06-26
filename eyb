@@ -1,0 +1,8 @@
+      {
+        "chainId": 1,
+        "address": "0xEa21501FF06b82737CaAdAd6f0b11DeF4E96EBFF",
+        "name": "Crocodile King Token",
+        "symbol": "EYB",
+        "decimals": 18,
+        "logoURI": "https://crocodileking.com/128x128.png"
+        }
